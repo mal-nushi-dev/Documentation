@@ -27,7 +27,7 @@ Run the following command:
 
 This command is used to connect to the PostgreSQL database server using the command-line interface interface utility called, `psql`.
 
-It taskes in a few parameters:
+It takes in a few parameters: 
 
 -  `psql` : The command used to start the PostgreSQL client program
 - `-h localhost` : The hostname or IP address of the PostgreSQL server to connect to. In this case, it is `localhost`, which means the server is running on the same machine as the client.
